@@ -7,6 +7,7 @@
 - Python
 - HTML & CSS
 - Java Script
+- My SQL
 
 ## 구현 내용
 - 사전 설문을 통해 교육 대상자의 수준 및 성향별로 분류
